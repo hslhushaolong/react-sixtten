@@ -12,7 +12,7 @@ class Error extends Component {
             <div className="errorPin" />
             <div className="errorCode"> 错误 <span>404</span></div>
             <p>你所找的页面已进入外太空</p>
-            <p>请刷新页面或者<button><a href="#/">返回首页</a></button></p>
+            <p>请刷新页面或者<button><a href="/">返回首页</a></button></p>
           </div>
         </div>
       </div>
@@ -21,3 +21,5 @@ class Error extends Component {
 }
 
 export default Error;
+
+
